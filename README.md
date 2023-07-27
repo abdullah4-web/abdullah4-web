@@ -3,20 +3,20 @@
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
-<li> 💻 𝖨'𝗆 𝖥𝗋𝗈𝗇𝗍 𝖤𝗇𝖽 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
-<li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝖱𝖾𝖺𝖼𝗍𝖩𝖲 | 𝖭𝖾𝗑𝗍𝖩𝖲</li>
+<li> 💻 𝖨'𝗆 MERN Stack Web 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
+<li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝖱𝖾𝖺𝖼𝗍𝖩𝖲 | Node js |</li>
 <li> 😍 𝖢𝗈𝖽𝗂𝗇𝗀 </li>
 <li> 😆 𝖯𝗋𝗈𝗇𝗈𝗎𝗇𝗌: 𝖧𝖾/𝖧𝗂𝗆 </li>
 
 <br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
 <code><img width="43" src="https://github.com/abdullah4-web/abdullah4-web/blob/main/assets/React.svg"></code>
-<code><img width="40" src="https://github.com/abdullah4-web/abdullah4-web/blob/main/assets/Typescript.svg"></code>
-<code><img width="43" src="https://github.com/abdullah4-web/abdullah4-web/blob/main/assets/nextjs-logo.svg"></code>
+
+
 <code><img width="43" src="https://github.com/abdullah4-web/abdullah4-web/blob/main/assets/redux-logo.svg"></code>
 <code><img width="40" src="https://github.com/abdullah4-web/abdullah4-web/blob/main/assets/JS.svg"></code>
 <code><img width="40" src="https://github.com/abdullah4-web/abdullah4-web/blob/main/assets/git.svg"></code>
-<code><img width="40" src="https://github.com/abdullah4-web/abdullah4-web/blob/main/assets/figma-logo.png"></code>
+
 
 <br/>
 <br/>

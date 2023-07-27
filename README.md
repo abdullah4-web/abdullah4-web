@@ -11,9 +11,8 @@
 <br/>
 <h2>Languages and Tools</h2>
 <code><img width="43" src="https://github.com/abdullah4-web/abdullah4-web/blob/main/assets/React.svg"></code>
-<code><img width="43" src="https://github.com/abdullah4-web/abdullah4-web/blob/main/assets/redux-logo.svg"></code>
-<code><img width="40" src="https://github.com/abdullah4-web/abdullah4-web/blob/main/assets/Nodejs.svg"></code>
-<code><img width="40" src="https://github.com/abdullah4-web/abdullah4-web/blob/main/assets/MongoDB.svg"></code>
+<code><img width="40" src="https://tse1.mm.bing.net/th?id=OIP.Tf4BFI6846neirVSebC0vAHaEi&pid=Api&P=0&h=180"></code>
+<code><img width="40" src="https://tse2.mm.bing.net/th?id=OIP.ER7BptIYd1UWXc7coSsdEAHaHa&pid=Api&P=0&h=180"></code>
 <code><img width="40" src="https://github.com/abdullah4-web/abdullah4-web/blob/main/assets/JS.svg"></code>
 <code><img width="40" src="https://github.com/abdullah4-web/abdullah4-web/blob/main/assets/git.svg"></code>
 
